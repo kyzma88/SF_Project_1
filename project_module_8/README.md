@@ -4,8 +4,8 @@
 [1. Описание проекта](https://github.com/kyzma88/SF_test/blob/main/project_module_8/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/kyzma88/SF_test/blob/main/project_module_8/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/kyzma88/SF_test/blob/main/project_module_8/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/kyzma88/SF_test/blob/main/project_module_8/README.mdmd#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/kyzma88/SF_test/blob/main/project_module_8/README.md#Результат)    
+[4. Этапы работы над проектом](https://github.com/kyzma88/SF_test/blob/main/project_module_8/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/kyzma88/SF_test/blob/main/project_module_8/README.md#Результаты)    
 [6. Выводы](https://github.com/kyzma88/SF_test/blob/main/project_module_8/README.md#Выводы) 
 
 ### Описание проекта    
